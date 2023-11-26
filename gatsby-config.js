@@ -7,9 +7,6 @@ module.exports = {
     title: "Early rework of tijsboussier.eu",
   },
   plugins: [
-    "gatsby-plugin-image",
-    "gatsby-plugin-sharp",
-    "gatsby-plugin-netlify",
     { 
       resolve: "gatsby-source-filesystem",
       options: {
